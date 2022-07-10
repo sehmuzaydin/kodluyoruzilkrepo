@@ -18,4 +18,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Licence
 [MIT](https://www.mit.edu)
-![Image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fgit-scm.com%2Fimages%2Flogos%2Fdownloads%2FGit-Icon-1788C.png&imgrefurl=https%3A%2F%2Fgit-scm.com%2Fdownloads%2Flogos&tbnid=jpq4xLgv36ZQ1M&vet=12ahUKEwjwjsLR5-34AhVIg_0HHeVGATUQMygBegUIARDBAQ..i&docid=zURF9QyvmP0d4M&w=383&h=383&q=GIT&hl=tr&ved=2ahUKEwjwjsLR5-34AhVIg_0HHeVGATUQMygBegUIARDBAQ)
+
+![Image](https://tr.pinterest.com/pin/649996158709507973/)
