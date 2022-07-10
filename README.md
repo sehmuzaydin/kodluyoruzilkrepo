@@ -7,5 +7,6 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 Linux için;
 ```cd kodluyoruzilkrepo
 code .```
+
 # Licence
 [MIT](https://www.mit.edu)
