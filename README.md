@@ -19,4 +19,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # Licence
 [MIT](https://www.mit.edu)
 
-![Image](https://dev.to/lofiandcode/git-and-github-the-basics-5chg)
