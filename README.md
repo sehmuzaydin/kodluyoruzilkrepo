@@ -19,4 +19,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # Licence
 [MIT](https://www.mit.edu)
 
-![Image](https://tr.pinterest.com/pin/649996158709507973/)
+![Image](https://tr.pinterest.com/pin/649996158709507973/.gif)
