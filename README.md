@@ -7,13 +7,13 @@ git clone https://github.com/sehmuzaydin/kodluyoruzilkrepo.git
 
 # Usage
 Projeyi klonladıktan sonra Visual Studio Code programını açınız.
-# Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açın.
-Linux için;
 ```
 cd kodluyoruzilkrepo
 code .
 ```
+
+# Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açın.
 
 # Licence
 [MIT](https://www.mit.edu)
